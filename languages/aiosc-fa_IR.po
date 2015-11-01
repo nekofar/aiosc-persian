@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: AIO Support Center v2.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-11-01 00:24+0330\n"
+"PO-Revision-Date: 2015-11-01 12:49+0330\n"
 "Last-Translator: Milad Nekofar <milad@nekofar.com>\n"
 "Language-Team: Milad Nekofar <milad@nekofar.com>\n"
 "Language: fa\n"
@@ -333,52 +333,52 @@ msgstr ""
 #: class/class.settings.php:115
 #, php-format
 msgid "[Ticket #{%ticket.id%}] New Ticket Created"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] درخواست جدید ایجاد شد"
 
 #: class/class.settings.php:116
 #, php-format
 msgid "[Ticket #{%ticket.id%}] You got a new reply!"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] پاسخ جدیدی دریافت کردید!"
 
 #: class/class.settings.php:117
 #, php-format
 msgid "[Ticket #{%ticket.id%}] Your ticket has been closed"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] درخواست شما بسته شده"
 
 #: class/class.settings.php:118
 #, php-format
 msgid "[Ticket #{%ticket.id%}] Your ticket is re-opened"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] درخواست شما بازگشایی شده"
 
 #: class/class.settings.php:125
 #, php-format
 msgid "[Ticket #{%ticket.id%}] You've been assigned to new ticket"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] درخواست جدیدی به شما ارجاع داده شده"
 
 #: class/class.settings.php:126
 #, php-format
 msgid "[Ticket #{%ticket.id%}] Customer posted a new reply"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] مشتری پاسخ جدیدی ارسال کرد"
 
 #: class/class.settings.php:127
 #, php-format
 msgid "[Ticket #{%ticket.id%}] Customer requested closure"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] مشتری برای بسته شدن درخواست کرد"
 
 #: class/class.settings.php:128
 #, php-format
 msgid "[Ticket #{%ticket.id%}] Customer has reopened this ticket"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] مشتری این درخواست را بازگشایی کرد"
 
 #: class/class.settings.php:135
 #, php-format
 msgid "[Ticket #{%ticket.id%}] We haven't heard back from you..."
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] از شما خبری نشنیده‌ایم..."
 
 #: class/class.settings.php:136
 #, php-format
 msgid "[Ticket #{%ticket.id%}] We haven't forgotten about you!"
-msgstr ""
+msgstr "[درخواست #{%ticket.id%}] شما را فراموش نکرده‌ایم!"
 
 #: class/class.ticket-manager.php:49
 msgid "<strong>Error:</strong> You must wait some time until you can create new ticket."
@@ -490,7 +490,7 @@ msgstr ""
 
 #: inc/hooks.php:256
 msgid "AIO Support Center Role"
-msgstr ""
+msgstr "نقش مرکز پشتیبانی آیو"
 
 #: inc/hooks.php:259
 msgid "- No role for this user -"
@@ -706,7 +706,7 @@ msgstr ""
 #: templates/admin/preferences/priorities-new.php:16
 #: templates/admin/preferences/priorities.php:10
 msgid "Add New"
-msgstr ""
+msgstr "افزودن جدید"
 
 #: templates/admin/my-account/premade-responses-new.php:18
 #: templates/admin/preferences/departments-new.php:18
@@ -850,7 +850,7 @@ msgstr ""
 #: templates/admin/preferences/addons/list.php:23
 #, php-format
 msgid "AIO Support Center %s"
-msgstr ""
+msgstr "%s مرکز پشتیبانی آیو"
 
 #: templates/admin/preferences/addons/list.php:33
 #, php-format
