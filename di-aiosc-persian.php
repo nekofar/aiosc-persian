@@ -3,7 +3,7 @@
 /*
 	Plugin Name: AIO Support Center Persian
 	Plugin URI: http://github.com/nekofar/aiosc-persian
-	Description: Persian improvements for AIO Support Center.
+	Description: Persian improvements for AIO Support Center plugin of Wordpress.
 	Version: 0.1.0
 	Author: Milad Nekofar
 	Author URI: http://milad.nekofar.com
