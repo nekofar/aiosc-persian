@@ -1,0 +1,3010 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIO Support Center v2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-01 00:24+0330\n"
+"Last-Translator: Milad Nekofar <milad@nekofar.com>\n"
+"Language-Team: Milad Nekofar <milad@nekofar.com>\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;"
+"_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;"
+"esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;"
+"st:1;trans:1;transChoice:1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fa_IR\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/class.attachment-manager.php:21
+msgid "<strong>Error:</strong> File uploads are disabled by system."
+msgstr ""
+
+#: class/class.attachment-manager.php:22
+msgid "<strong>Error:</strong> You don't have the right permission to upload files."
+msgstr ""
+
+#: class/class.attachment-manager.php:36
+#, php-format
+msgid ""
+"<strong>Error:</strong> Maximum files you can upload while creating ticket is %d but "
+"you attached %d."
+msgstr ""
+
+#: class/class.attachment-manager.php:38
+#, php-format
+msgid ""
+"<strong>Error:</strong> Maximum files you can upload while posting reply is %d but you "
+"attached %d."
+msgstr ""
+
+#: class/class.attachment-manager.php:48 class/class.attachment-manager.php:55
+#, php-format
+msgid "<strong>Error:</strong> File <code>%s</code> exceeds maximum filesize limit."
+msgstr ""
+
+#: class/class.attachment-manager.php:60
+#, php-format
+msgid "<strong>Error:</strong> File <code>%s</code> | No temporary directory."
+msgstr ""
+
+#: class/class.attachment-manager.php:62
+#, php-format
+msgid "<strong>Error:</strong> File <code>%s</code> | Cant write to disk."
+msgstr ""
+
+#: class/class.attachment-manager.php:64
+#, php-format
+msgid "<strong>Error:</strong> File <code>%s</code> | Only partially uploaded"
+msgstr ""
+
+#: class/class.attachment-manager.php:66
+#, php-format
+msgid ""
+"<strong>Error:</strong> File <code>%s</code> | A PHP extension stopped the file upload."
+msgstr ""
+
+#: class/class.attachment-manager.php:68
+#, php-format
+msgid ""
+"<strong>Error:</strong> File <code>%s</code> could not be uploaded due to unknown "
+"reason. | %s"
+msgstr ""
+
+#: class/class.attachment-manager.php:77
+#, php-format
+msgid "<strong>Error:</strong> File <code>%s</code> has invalid extension."
+msgstr ""
+
+#: class/class.attachment-manager.php:85
+msgid "<strong>Error:</strong> Files could not be uploaded due to unknown reason."
+msgstr ""
+
+#: class/class.attachment-manager.php:93 class/class.attachment-manager.php:97
+#, php-format
+msgid ""
+"<strong>Error:</strong> File <code>%s</code> could not be uploaded due to unknown "
+"reason."
+msgstr ""
+
+#: class/class.attachment-manager.php:105
+#, php-format
+msgid "Total of %d files were uploaded successfully."
+msgstr ""
+
+#: class/class.attachment-manager.php:109
+msgid "<strong>Error:</strong> Files could not be uploaded due to unknown error."
+msgstr ""
+
+#: class/class.capabilities.php:23
+msgid "Supervisor"
+msgstr ""
+
+#: class/class.capabilities.php:53
+msgid "Moderator"
+msgstr ""
+
+#: class/class.capabilities.php:101
+msgid "Exclusive Customer"
+msgstr ""
+
+#: class/class.department-manager.php:30
+msgid "<strong>Error:</strong> Department name is missing."
+msgstr ""
+
+#: class/class.department-manager.php:33 class/class.department-manager.php:36
+msgid "<strong>Error:</strong> Department name already exists. Please choose another one."
+msgstr ""
+
+#: class/class.department-manager.php:40
+msgid ""
+"<strong>Error:</strong> In order to be <strong>active</strong>, department must have at "
+"least one active operator assigned to it."
+msgstr ""
+
+#: class/class.department-manager.php:67
+#, php-format
+msgid "Department <strong>&quot;%s&quot;</strong> has been created."
+msgstr ""
+
+#: class/class.department-manager.php:75
+#, php-format
+msgid "Department <strong>&quot;%s&quot;</strong> has been updated."
+msgstr ""
+
+#: class/class.department-manager.php:131
+msgid ""
+"<strong>Error:</strong> Department you are moving data to cannot be the same as the one "
+"you are trying to delete."
+msgstr ""
+
+#: class/class.department-manager.php:133
+#, php-format
+msgid "<strong>Error:</strong> Department with ID <code>%d</code> does not exist."
+msgstr ""
+
+#: class/class.department-manager.php:140
+msgid "<strong>Error:</strong> Department you are moving data to does not exist."
+msgstr ""
+
+#: class/class.department-manager.php:163
+#, php-format
+msgid ""
+"Department &quot;%s&quot; was deleted successfully. Total of %d tickets and %d "
+"Operators were moved to &quot;%s&quot; department."
+msgstr ""
+
+#: class/class.department-manager.php:166
+#, php-format
+msgid "Department &quot;%s&quot; was deleted successfully."
+msgstr ""
+
+#: class/class.department-manager.php:182
+#, php-format
+msgid "Total of %d departments were activated successfully."
+msgstr ""
+
+#: class/class.department-manager.php:184
+#, php-format
+msgid "Total of %d departments were deactivated successfully."
+msgstr ""
+
+#: class/class.department-manager.php:186
+msgid "No departments were selected so no action was taken."
+msgstr ""
+
+#: class/class.department-manager.php:201
+msgid "This is default department created on AIOSC installation."
+msgstr ""
+
+#: class/class.premade-response-manager.php:6
+msgid "<strong>Error:</strong> Pre-made Response must have a name."
+msgstr ""
+
+#: class/class.premade-response-manager.php:14
+#: class/class.premade-response-manager.php:19
+#, php-format
+msgid ""
+"<strong>Error:</strong> Pre-made Response with &quot;%s&quot; name already exists. To "
+"avoid confusion later, please choose unique name."
+msgstr ""
+
+#: class/class.premade-response-manager.php:36
+#, php-format
+msgid "Pre-made Response <strong>&quot;%s&quot;</strong> has been created."
+msgstr ""
+
+#: class/class.premade-response-manager.php:44
+#, php-format
+msgid "Pre-made Response <strong>&quot;%s&quot;</strong> has been updated."
+msgstr ""
+
+#: class/class.premade-response-manager.php:85
+#, php-format
+msgid "Total of <code>%s</code> Pre-made Responses were deleted successfully."
+msgstr ""
+
+#: class/class.premade-response-manager.php:87
+msgid "Pre-made Response was deleted successfully."
+msgstr ""
+
+#: class/class.premade-response-manager.php:124
+#, php-format
+msgid "Total of <code>%s</code> Pre-made Responses are shared."
+msgstr ""
+
+#: class/class.premade-response-manager.php:126
+#, php-format
+msgid "Total of <code>%s</code> Pre-made Responses are made private."
+msgstr ""
+
+#: class/class.premade-response-manager.php:131
+msgid "Pre-made Response is shared."
+msgstr ""
+
+#: class/class.premade-response-manager.php:133
+msgid "Pre-made Response is made private."
+msgstr ""
+
+#: class/class.priority-manager.php:21
+msgid "<strong>Error:</strong> Priority name is missing."
+msgstr ""
+
+#: class/class.priority-manager.php:26 class/class.priority-manager.php:29
+msgid "<strong>Error:</strong> Priority name already exists. Please choose another one."
+msgstr ""
+
+#: class/class.priority-manager.php:51
+#, php-format
+msgid "Priority <strong>&quot;%s&quot;</strong> has been created."
+msgstr ""
+
+#: class/class.priority-manager.php:66
+#, php-format
+msgid "Priority <strong>&quot;%s&quot;</strong> has been updated."
+msgstr ""
+
+#: class/class.priority-manager.php:123
+msgid ""
+"<strong>Error:</strong> Priority you are moving data to cannot be the same as the one "
+"you are trying to delete."
+msgstr ""
+
+#: class/class.priority-manager.php:125
+#, php-format
+msgid "<strong>Error:</strong> Priority with ID <code>%d</code> does not exist."
+msgstr ""
+
+#: class/class.priority-manager.php:131
+msgid "<strong>Error:</strong> Priority you are moving data to does not exist."
+msgstr ""
+
+#: class/class.priority-manager.php:146
+#, php-format
+msgid ""
+"Priority &quot;%s&quot; was deleted successfully. Total of %d tickets were moved to "
+"&quot;%s&quot; priority."
+msgstr ""
+
+#: class/class.priority-manager.php:149
+#, php-format
+msgid "Priority &quot;%s&quot; was deleted successfully."
+msgstr ""
+
+#: class/class.priority-manager.php:164
+#, php-format
+msgid "Total of %d priorities were activated successfully."
+msgstr ""
+
+#: class/class.priority-manager.php:166
+#, php-format
+msgid "Total of %d priorities were deactivated successfully."
+msgstr ""
+
+#: class/class.priority-manager.php:168
+msgid "No priorities were selected so no action was taken."
+msgstr ""
+
+#: class/class.priority-manager.php:181
+msgid "No Priority"
+msgstr ""
+
+#: class/class.priority-manager.php:182
+msgid "This is default priority created on AIOSC installation."
+msgstr ""
+
+#: class/class.reply-manager.php:25
+msgid "<strong>Error:</strong> You must wait some time until you can post a new reply."
+msgstr ""
+
+#: class/class.reply-manager.php:29
+msgid "<strong>Error:</strong> Ticket doesn't exist or is closed for replies."
+msgstr ""
+
+#: class/class.reply-manager.php:74
+#, php-format
+msgid "Reply <code>#%s</code> updated successfully."
+msgstr ""
+
+#: class/class.reply-manager.php:108
+msgid "<strong>Error:</strong> Reply could not be created for unknown reason."
+msgstr ""
+
+#: class/class.reply-manager.php:227
+#, php-format
+msgid "Reply <code>%s</code> was removed successfully."
+msgstr ""
+
+#: class/class.settings.php:86
+msgid "Ticket closed upon request."
+msgstr ""
+
+#: class/class.settings.php:87
+msgid "Ticket closed due to inactivity."
+msgstr ""
+
+#: class/class.settings.php:115
+#, php-format
+msgid "[Ticket #{%ticket.id%}] New Ticket Created"
+msgstr ""
+
+#: class/class.settings.php:116
+#, php-format
+msgid "[Ticket #{%ticket.id%}] You got a new reply!"
+msgstr ""
+
+#: class/class.settings.php:117
+#, php-format
+msgid "[Ticket #{%ticket.id%}] Your ticket has been closed"
+msgstr ""
+
+#: class/class.settings.php:118
+#, php-format
+msgid "[Ticket #{%ticket.id%}] Your ticket is re-opened"
+msgstr ""
+
+#: class/class.settings.php:125
+#, php-format
+msgid "[Ticket #{%ticket.id%}] You've been assigned to new ticket"
+msgstr ""
+
+#: class/class.settings.php:126
+#, php-format
+msgid "[Ticket #{%ticket.id%}] Customer posted a new reply"
+msgstr ""
+
+#: class/class.settings.php:127
+#, php-format
+msgid "[Ticket #{%ticket.id%}] Customer requested closure"
+msgstr ""
+
+#: class/class.settings.php:128
+#, php-format
+msgid "[Ticket #{%ticket.id%}] Customer has reopened this ticket"
+msgstr ""
+
+#: class/class.settings.php:135
+#, php-format
+msgid "[Ticket #{%ticket.id%}] We haven't heard back from you..."
+msgstr ""
+
+#: class/class.settings.php:136
+#, php-format
+msgid "[Ticket #{%ticket.id%}] We haven't forgotten about you!"
+msgstr ""
+
+#: class/class.ticket-manager.php:49
+msgid "<strong>Error:</strong> You must wait some time until you can create new ticket."
+msgstr ""
+
+#: class/class.ticket-manager.php:66
+#, php-format
+msgid ""
+"<strong>Error:</strong> Department &quot;%s&quot; is not operating at the moment. "
+"Please choose another department."
+msgstr ""
+
+#: class/class.ticket-manager.php:74
+#, php-format
+msgid ""
+"<strong>Error:</strong> Priority &quot;%s&quot; is not operating at the moment. Please "
+"choose another priority."
+msgstr ""
+
+#: class/class.ticket-manager.php:118
+#, php-format
+msgid ""
+"Ticket <code>#%s</code> updated successfully. You might have to <a href=\"%s\">refresh</"
+"a> the page to see some changes."
+msgstr ""
+
+#: class/class.ticket-manager.php:128
+#, php-format
+msgid ""
+"Ticket could not be created for Author ID <strong>%s</strong> because user has no "
+"permission to create tickets.\n"
+"                <br />Please try another user or give this one correct role."
+msgstr ""
+
+#: class/class.ticket-manager.php:151
+#, php-format
+msgid ""
+"<strong>Error:</strong> Ticket <code>#%s</code> could not be created for unknown "
+"reason.:<br />%s"
+msgstr ""
+
+#: class/class.ticket-manager.php:167
+msgid "Your request has been received. Page will refresh soon..."
+msgstr ""
+
+#: class/class.ticket-manager.php:213
+#, php-format
+msgid ""
+"Ticket <code>#%s</code> was re-opened successfully. Please <a href=\"%s\">refresh</a> "
+"the page."
+msgstr ""
+
+#: class/class.ticket-manager.php:227
+msgid ""
+"Tickets could not be updated because selected department does not exist or is inactive."
+msgstr ""
+
+#: class/class.ticket-manager.php:228
+msgid ""
+"Tickets could not be updated because selected priority does not exist or is inactive."
+msgstr ""
+
+#: class/class.ticket-manager.php:245
+#, php-format
+msgid "Total of %d tickets were updated successfully."
+msgstr ""
+
+#: class/class.ticket-manager.php:247
+msgid "Ticket was updated successfully."
+msgstr ""
+
+#: class/class.ticket-manager.php:249 class/class.ticket-manager.php:268
+msgid "No tickets were selected so no action was taken."
+msgstr ""
+
+#: class/class.ticket-manager.php:264
+#, php-format
+msgid "Total of %d tickets were deleted successfully."
+msgstr ""
+
+#: class/class.ticket-manager.php:266
+msgid "Ticket was deleted successfully."
+msgstr ""
+
+#: class/class.ticket.php:17
+msgid "Operator did not leave any note about closure."
+msgstr ""
+
+#: di-aiosc.php:23
+msgid "<strong>Permission Error:</strong> You do not have permission for this action."
+msgstr ""
+
+#: inc/hooks.php:90
+#, php-format
+msgid "You have %d new tickets in Queue"
+msgstr ""
+
+#: inc/hooks.php:126
+msgid "Change AIOSC role to&hellip;"
+msgstr ""
+
+#: inc/hooks.php:128
+msgid "Change AIOSC role to..."
+msgstr ""
+
+#: inc/hooks.php:164
+msgid "AIOSC role"
+msgstr ""
+
+#: inc/hooks.php:256
+msgid "AIO Support Center Role"
+msgstr ""
+
+#: inc/hooks.php:259
+msgid "- No role for this user -"
+msgstr ""
+
+#: inc/hooks.php:393 inc/hooks.php:399 inc/hooks.php:403
+#: templates/admin/ticket/list/table-confirm.php:89
+msgid "- Pick operator -"
+msgstr ""
+
+#: inc/hooks.php:427 inc/hooks.php:559 inc/hooks.php:574 inc/hooks_tools.php:33
+msgid "<strong>Error:</strong> Selected tab doesn't exist."
+msgstr ""
+
+#: inc/hooks.php:875 inc/hooks.php:887
+msgid "Settings were saved successfully."
+msgstr ""
+
+#: inc/hooks.php:891 inc/hooks.php:951
+msgid "Cheatin' huh?."
+msgstr ""
+
+#: inc/hooks.php:947
+msgid "Account Settings were saved successfully."
+msgstr ""
+
+#: inc/hooks_tools.php:60
+msgid ""
+"<strong>Warning:</strong> Selected role is too high for mass-update. You can only use "
+"low-level roles from dropdown."
+msgstr ""
+
+#: inc/hooks_tools.php:83
+#, php-format
+msgid "<strong>Update Current Roles:</strong> Total of %d user(s) were updated."
+msgstr ""
+
+#: inc/hooks_tools.php:104
+#, php-format
+msgid "<strong>Old SC Role Removal:</strong> Total of %d user(s) were updated."
+msgstr ""
+
+#: inc/hooks_tools.php:111
+msgid "<strong>Info:</strong> No action was taken."
+msgstr ""
+
+#: inc/hooks_tools.php:117
+msgid "<strong>Error:</strong> Section doesn't exist."
+msgstr ""
+
+#: inc/more-addons.php:10
+msgid "More Add-Ons"
+msgstr ""
+
+#: inc/tools.php:388 inc/tools.php:392
+msgid "Go to the first page"
+msgstr ""
+
+#: inc/tools.php:389 inc/tools.php:393
+msgid "Go to the previous page"
+msgstr ""
+
+#: inc/tools.php:402 inc/tools.php:406
+msgid "Go to the next page"
+msgstr ""
+
+#: inc/tools.php:403 inc/tools.php:407
+msgid "Go to the last page"
+msgstr ""
+
+#: inc/vars.php:36
+msgid "Front-End URL"
+msgstr ""
+
+#: inc/vars.php:37
+msgid "Dynamic URL"
+msgstr ""
+
+#: inc/vars.php:49
+msgid "Date Open"
+msgstr "تاریخ باز‌شدن"
+
+#: inc/vars.php:50
+msgid "Date Closed"
+msgstr "تاریخ بسته‌شدن"
+
+#: inc/vars.php:51 templates/admin/ticket/single/page.php:275
+#: templates/shortcodes/single/sidebar.php:167
+msgid "Closure Note"
+msgstr "یاداشت بسته‌شدن"
+
+#: inc/vars.php:52
+msgid "Scheduled closure (days)"
+msgstr ""
+
+#: inc/vars.php:53
+msgid "Scheduled closure (date)"
+msgstr ""
+
+#: inc/vars.php:54
+msgid "Scheduled closure (date & time)"
+msgstr ""
+
+#: inc/vars.php:55 inc/vars.php:65
+msgid "Attachments Count"
+msgstr ""
+
+#: inc/vars.php:64
+msgid "Date Posted"
+msgstr ""
+
+#: inc/vars.php:73 inc/vars.php:85
+msgid "First Name"
+msgstr ""
+
+#: inc/vars.php:74 inc/vars.php:86
+msgid "Last Name"
+msgstr ""
+
+#: inc/vars.php:75 inc/vars.php:87
+msgid "Display Name"
+msgstr ""
+
+#: inc/vars.php:76 inc/vars.php:88
+msgid "E-Mail Address"
+msgstr ""
+
+#: inc/vars.php:77 inc/vars.php:89
+msgid "AIOSC Role"
+msgstr ""
+
+#: inc/vars.php:78 inc/vars.php:90
+msgid "Profile URL"
+msgstr ""
+
+#: inc/vars.php:94
+msgid "Miscellaneous"
+msgstr ""
+
+#: inc/vars.php:101
+msgid "My Tickets URL - Front-End"
+msgstr ""
+
+#: inc/vars.php:102
+msgid "New Ticket URL - Front-End"
+msgstr ""
+
+#: inc/vars.php:103
+msgid "Date - Now"
+msgstr ""
+
+#: inc/vars.php:104
+msgid "Date - Year"
+msgstr ""
+
+#: inc/vars.php:105
+msgid "Date - Month"
+msgstr ""
+
+#: inc/vars.php:106
+msgid "Time - Now"
+msgstr ""
+
+#: piper.php:81
+msgid "Untitled"
+msgstr ""
+
+#: templates/admin/my-account/general.php:8
+msgid "E-Mail Notifications"
+msgstr ""
+
+#: templates/admin/my-account/general.php:10
+msgid "Would you like to receive notifications?"
+msgstr ""
+
+#: templates/admin/my-account/general.php:14
+msgid "Send me notifications related to tickets assigned to me."
+msgstr ""
+
+#: templates/admin/my-account/general.php:18
+msgid "Send me all notifications related to departments I am assigned to."
+msgstr ""
+
+#: templates/admin/my-account/general.php:22
+msgid "Hide \"Create New\" page"
+msgstr ""
+
+#: templates/admin/my-account/general.php:24
+msgid "Would you like to hide this page from main menu for your account?"
+msgstr ""
+
+#: templates/admin/my-account/general.php:28
+msgid "Yes please, hide it."
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:15
+#: templates/admin/my-account/premade-responses.php:9
+#: templates/admin/preferences/departments-confirm.php:12
+#: templates/admin/preferences/departments-new.php:15
+#: templates/admin/preferences/departments.php:9
+#: templates/admin/preferences/priorities-confirm.php:12
+#: templates/admin/preferences/priorities-new.php:15
+#: templates/admin/preferences/priorities.php:9
+msgid "List"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:16
+#: templates/admin/my-account/premade-responses.php:10
+#: templates/admin/preferences/departments-confirm.php:13
+#: templates/admin/preferences/departments-new.php:16
+#: templates/admin/preferences/departments.php:10
+#: templates/admin/preferences/priorities-confirm.php:13
+#: templates/admin/preferences/priorities-new.php:16
+#: templates/admin/preferences/priorities.php:10
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:18
+#: templates/admin/preferences/departments-new.php:18
+#: templates/admin/preferences/priorities-new.php:18
+#, php-format
+msgid "Editing &quot;%s&quot;"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:25
+#: templates/admin/preferences/departments-new.php:25
+#: templates/admin/preferences/priorities-new.php:25
+msgid "Name"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:27
+#: templates/admin/preferences/departments-new.php:27
+#: templates/admin/preferences/priorities-new.php:27
+msgid "Name must be unique."
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:36
+msgid "The content of your pre-made response."
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:53
+msgid "Shared?"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:55
+msgid "Would you like others to see and use this response?"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:66
+#: templates/admin/preferences/departments-new.php:88
+#: templates/admin/preferences/priorities-new.php:75
+msgid "Update"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses-new.php:66
+#: templates/admin/preferences/departments-new.php:88
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:46
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:46
+#: templates/admin/preferences/email-templates/customer-closure.php:49
+#: templates/admin/preferences/email-templates/customer-creation.php:49
+#: templates/admin/preferences/email-templates/customer-reopen.php:49
+#: templates/admin/preferences/email-templates/customer-reply.php:49
+#: templates/admin/preferences/email-templates/staff-closure.php:49
+#: templates/admin/preferences/email-templates/staff-creation.php:49
+#: templates/admin/preferences/email-templates/staff-reopen.php:50
+#: templates/admin/preferences/email-templates/staff-reply.php:49
+#: templates/admin/preferences/priorities-new.php:75
+msgid "Save"
+msgstr "ذخیره"
+
+#: templates/admin/my-account/premade-responses.php:15
+#: templates/admin/preferences/departments.php:15
+#: templates/admin/preferences/priorities.php:15 templates/admin/ticket/list/page.
+#: php:197
+msgid "Bulk Actions"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:16
+msgid "Share"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:17
+msgid "Make Private"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:27
+#: templates/admin/my-account/premade-responses.php:38
+#: templates/admin/preferences/departments.php:27
+#: templates/admin/preferences/departments.php:39
+#: templates/admin/preferences/priorities.php:27
+#: templates/admin/preferences/priorities.php:39 templates/admin/ticket/list/table.php:34
+#: templates/admin/ticket/list/table.php:117
+msgid "Select All"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:30
+#: templates/admin/my-account/premade-responses.php:41 templates/admin/my-account. php:25
+msgid "Pre-Made Responses"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:31
+#: templates/admin/my-account/premade-responses.php:42
+msgid "Is Shared?"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:57
+#: templates/admin/preferences/departments.php:59
+#: templates/admin/preferences/priorities.php:63
+#: templates/admin/ticket/list/table.php:214
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:67
+msgid "Edit this response"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:70
+msgid "Delete permanently this response"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:70
+#: templates/admin/preferences/departments.php:72
+#: templates/admin/preferences/priorities.php:76 templates/admin/ticket/list/page.
+#: php:199
+msgid "Delete permanently"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:74
+msgid "Shared"
+msgstr ""
+
+#: templates/admin/my-account/premade-responses.php:81
+msgid "No pre-made responses found."
+msgstr ""
+
+#: templates/admin/my-account.php:21
+msgid "Edit your AIOSC account."
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:5
+msgid "List of Add-Ons available for purchase:"
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:15
+msgid "Already installed"
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:18
+msgid "In order to use this Add-On, you must update your AIO Support Center first."
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:18
+msgid "AIO Support Center update required"
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:23
+#, php-format
+msgid "AIO Support Center %s"
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:33
+#, php-format
+msgid "Purchase now for $%s"
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:34
+msgid "Download for free"
+msgstr ""
+
+#: templates/admin/preferences/addons/list.php:42
+msgid ""
+"There are no available add-ons at the moment or server may be down. Please return back "
+"later."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:11
+#: templates/admin/preferences/cron/general.php:8
+#: templates/admin/preferences/cron/reminder-queue.php:11
+msgid "Auto-Closing"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:12
+#: templates/admin/preferences/cron/general.php:9
+#: templates/admin/preferences/cron/reminder-queue.php:12
+msgid "Queue Reminder"
+msgstr "یادآور صف"
+
+#: templates/admin/preferences/cron/auto-close.php:21
+msgid ""
+"This task will automatically close inactive tickets. It can also send notifications to "
+"customers before closure to inform them their tickets will be closed if they don't "
+"respond in timely manner.<br />You can find more details in the <strong>documentation</"
+"strong>."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:27
+msgid "Enable Auto-Closing"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:29
+msgid "Automatically close inactive tickets?"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:33
+msgid "Yes, enable Auto-Closing."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:37
+msgid "Notifications"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:39
+msgid "Notify Customer"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:41
+msgid "Send notification to customer when ticket is closed?"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:45
+msgid "Yes, send e-mail notification to customer."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:51
+msgid "Inactivity Closure Note"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:53
+msgid "Default closure note for tickets closed by cron because of inactivity."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:72
+msgid "Requested Closure Note"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:74
+msgid ""
+"Default closure note for tickets closed by cron because closure was requested by "
+"customer."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:91
+msgid "Rules"
+msgstr "قوائد"
+
+#: templates/admin/preferences/cron/auto-close.php:93
+#: templates/admin/preferences/cron/auto-close.php:150
+msgid "Inactivity Interval"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:95
+msgid "What is considered as inactive ticket?"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:97
+msgid "Ticket must be older than:"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:103
+msgid "day(s) &nbsp; &nbsp; <strong>OR</strong> "
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:105
+msgid ""
+"If this option is checked, tickets with Closure Request will be closed regardless of "
+"their age."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:107
+msgid "it has pending closure request."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:112
+#: templates/admin/preferences/cron/reminder-queue.php:57
+msgid "Ignore Departments"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:114
+#: templates/admin/preferences/cron/reminder-queue.php:59
+msgid ""
+"Ignore tickets from selected departments. <br /> <br />Hold CTRL to select multiple "
+"departments."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:127
+msgid "Reminder"
+msgstr "یادآور"
+
+#: templates/admin/preferences/cron/auto-close.php:129
+msgid "Enable Inactivity Reminder"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:131
+msgid "Notify customers when their ticket is considered inactive?"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:135
+msgid "Yes, enable Inactivity Reminder."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:140
+msgid "Reminder Interval"
+msgstr "بازه يادآور"
+
+#: templates/admin/preferences/cron/auto-close.php:142
+msgid "When to send reminder?"
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:149
+#, php-format
+msgid "day(s) <a href=\"%s\" title=\"%s\">before closure</a>."
+msgstr ""
+
+#: templates/admin/preferences/cron/auto-close.php:150
+#, php-format
+msgid "day(s) before (%s) field"
+msgstr ""
+
+#: templates/admin/preferences/cron/general.php:18
+msgid ""
+"Before enabling CRON, you should read detailed guide on how to setup AIOSC CRON in the "
+"documentation."
+msgstr ""
+
+#: templates/admin/preferences/cron/general.php:24
+msgid "Enable Cron"
+msgstr ""
+
+#: templates/admin/preferences/cron/general.php:26
+msgid "Would you like to run scheduled AIOSC tasks?"
+msgstr ""
+
+#: templates/admin/preferences/cron/general.php:30
+msgid "Yes, enable AIOSC Cron."
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:21
+msgid ""
+"This task will send e-mail notifications to all customers whose tickets are in queue "
+"longer than expected.<br />You can find more details in the <strong>documentation</"
+"strong>."
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:27
+msgid "Enable Queue Reminder"
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:29
+msgid "Notify customers when their ticket is in queue longer than expected?"
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:33
+msgid "Yes, enable Queue Reminder."
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:38
+msgid "Delay Interval"
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:40
+msgid "What is considered as delayed ticket?"
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:42
+msgid "Ticket is in <strong>queue</strong> for at least:"
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:48
+msgid "day(s)"
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:50
+msgid ""
+"If this option is checked, all tickets awaiting staff reply will be included, both OPEN "
+"and IN QUEUE."
+msgstr ""
+
+#: templates/admin/preferences/cron/reminder-queue.php:52
+msgid "Include <strong>open</strong> tickets awaiting staff reply as well."
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:18
+#, php-format
+msgid "Confirm deletion of %d department"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:20
+#, php-format
+msgid "Confirm deletion of %d departments"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:24
+#, php-format
+msgid "Confirm activation of %d department"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:26
+#, php-format
+msgid "Confirm activation of %d departments"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:30
+#, php-format
+msgid "Confirm deactivation of %d department"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:32
+#, php-format
+msgid "Confirm deactivation of %d departments"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:43
+msgid "Departments to be deleted:"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:45
+msgid "Departments to be activated:"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:47
+msgid "Departments to be deactivated:"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:79
+msgid "What would you like to do with tickets assigned to this department:"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:92
+#: templates/admin/preferences/priorities-confirm.php:91
+#, php-format
+msgid "Move to: %s"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:103
+#: templates/admin/preferences/priorities-confirm.php:102
+msgid "Confirm Deactivation"
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:103
+#: templates/admin/preferences/priorities-confirm.php:102
+msgid "Confirm Activation"
+msgstr ""
+
+#: templates/admin/preferences/departments-new.php:36
+#: templates/admin/preferences/priorities-new.php:36
+msgid "Not required but can help in management."
+msgstr ""
+
+#: templates/admin/preferences/departments-new.php:44
+msgid "Assign Operators"
+msgstr ""
+
+#: templates/admin/preferences/departments-new.php:46
+msgid "You can assign more than one operator."
+msgstr ""
+
+#: templates/admin/preferences/departments-new.php:75
+#: templates/admin/preferences/priorities-new.php:62
+msgid "Active?"
+msgstr ""
+
+#: templates/admin/preferences/departments-new.php:77
+msgid "Is this department available for use?"
+msgstr ""
+
+#: templates/admin/preferences/departments.php:72
+msgid "Delete permanently this department"
+msgstr ""
+
+#: templates/admin/preferences/departments.php:77
+#, php-format
+msgid "View all tickets from &quot;%s&quot; department."
+msgstr ""
+
+#: templates/admin/preferences/departments.php:82
+msgid "No departments found."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:11
+#: templates/admin/preferences/email.php:6
+msgid "Auto Responders"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:12
+#: templates/admin/preferences/email.php:7
+msgid "E-Mail Piping"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:19
+msgid "Enable E-Mail Piping"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:21
+msgid "Allow users to create / reply to tickets via e-mail."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:25
+msgid "Yes, enable e-mail piping."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:29
+msgid "Enable HTML Content-Type"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:31
+msgid "Allow HTML content in email or only plain text."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:35
+msgid "Yes, allow user to send HTML e-mails."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:38
+msgid "Ticket Creation"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:40
+msgid "Forwarded E-Mail Address"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:42
+msgid "Users will be sending their tickets to this e-mail address."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:49
+msgid "Default Department"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:51
+msgid "Active Department used for storing tickets created via e-mail."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:63
+msgid ""
+"You must have at least one <strong>active</strong> department for this feature to work."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:68
+msgid "Default Priority"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:70
+msgid "Active Priority used for tickets created via e-mail."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:82
+msgid ""
+"You must have at least one <strong>active</strong> priority for this feature to work."
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:86
+msgid "Ticket Replies"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:88
+msgid "E-mail Sub-Domain"
+msgstr ""
+
+#: templates/admin/preferences/email-piping.php:90
+msgid "Where to receive replies from users?"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:8
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:8
+#: templates/admin/preferences/email-templates/customer-closure.php:8
+#: templates/admin/preferences/email-templates/customer-creation.php:8
+#: templates/admin/preferences/email-templates/customer-reopen.php:8
+#: templates/admin/preferences/email-templates/customer-reply.php:8
+#: templates/admin/preferences/email-templates/staff-closure.php:8
+#: templates/admin/preferences/email-templates/staff-creation.php:8
+#: templates/admin/preferences/email-templates/staff-reopen.php:8
+#: templates/admin/preferences/email-templates/staff-reply.php:8
+msgid "Staff"
+msgstr "مسئول"
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:9
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:9
+#: templates/admin/preferences/email-templates/customer-closure.php:9
+#: templates/admin/preferences/email-templates/customer-creation.php:9
+#: templates/admin/preferences/email-templates/customer-reopen.php:9
+#: templates/admin/preferences/email-templates/customer-reply.php:9
+#: templates/admin/preferences/email-templates/staff-closure.php:9
+#: templates/admin/preferences/email-templates/staff-creation.php:9
+#: templates/admin/preferences/email-templates/staff-reopen.php:9
+#: templates/admin/preferences/email-templates/staff-reply.php:9
+msgid "Cron Reminders"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:14
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:14
+msgid "Queue"
+msgstr "صف"
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:15
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:15
+msgid "Inactivity"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:24
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:24
+#: templates/admin/preferences/email-templates/customer-closure.php:27
+#: templates/admin/preferences/email-templates/customer-creation.php:27
+#: templates/admin/preferences/email-templates/customer-reopen.php:27
+#: templates/admin/preferences/email-templates/customer-reply.php:27
+#: templates/admin/preferences/email-templates/staff-closure.php:27
+#: templates/admin/preferences/email-templates/staff-creation.php:27
+#: templates/admin/preferences/email-templates/staff-reopen.php:28
+#: templates/admin/preferences/email-templates/staff-reply.php:27
+msgid "You may use content tags here too."
+msgstr ""
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:31
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:31
+#: templates/admin/preferences/email-templates/customer-closure.php:34
+#: templates/admin/preferences/email-templates/customer-creation.php:34
+#: templates/admin/preferences/email-templates/customer-reopen.php:34
+#: templates/admin/preferences/email-templates/customer-reply.php:34
+#: templates/admin/preferences/email-templates/staff-closure.php:34
+#: templates/admin/preferences/email-templates/staff-creation.php:34
+#: templates/admin/preferences/email-templates/staff-reopen.php:35
+#: templates/admin/preferences/email-templates/staff-reply.php:34
+msgid "E-Mail Content"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:54
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:54
+#: templates/admin/preferences/email-templates/customer-closure.php:57
+#: templates/admin/preferences/email-templates/customer-creation.php:57
+#: templates/admin/preferences/email-templates/customer-reopen.php:57
+#: templates/admin/preferences/email-templates/customer-reply.php:57
+#: templates/admin/preferences/email-templates/staff-closure.php:57
+#: templates/admin/preferences/email-templates/staff-creation.php:57
+#: templates/admin/preferences/email-templates/staff-reopen.php:58
+#: templates/admin/preferences/email-templates/staff-reply.php:57
+msgid "- Browse Tags -"
+msgstr "- مرور برچسب‌ها -"
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:63
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:63
+#: templates/admin/preferences/email-templates/customer-closure.php:66
+#: templates/admin/preferences/email-templates/customer-creation.php:66
+#: templates/admin/preferences/email-templates/customer-reopen.php:66
+#: templates/admin/preferences/email-templates/customer-reply.php:66
+#: templates/admin/preferences/email-templates/staff-closure.php:66
+#: templates/admin/preferences/email-templates/staff-creation.php:66
+#: templates/admin/preferences/email-templates/staff-reopen.php:67
+#: templates/admin/preferences/email-templates/staff-reply.php:66
+#: templates/admin/ticket/single/reply/form.php:46
+#: templates/shortcodes/single/reply/form.php:44
+msgid "Insert"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/customer-closure.php:14
+#: templates/admin/preferences/email-templates/customer-creation.php:14
+#: templates/admin/preferences/email-templates/customer-reopen.php:14
+#: templates/admin/preferences/email-templates/customer-reply.php:14
+#: templates/admin/preferences/email-templates/staff-closure.php:14
+#: templates/admin/preferences/email-templates/staff-creation.php:14
+#: templates/admin/preferences/email-templates/staff-reopen.php:15
+#: templates/admin/preferences/email-templates/staff-reply.php:14
+msgid "On Ticket:"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/customer-closure.php:15
+#: templates/admin/preferences/email-templates/customer-creation.php:15
+#: templates/admin/preferences/email-templates/customer-reopen.php:15
+#: templates/admin/preferences/email-templates/customer-reply.php:15
+msgid "Creation"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/customer-closure.php:16
+#: templates/admin/preferences/email-templates/customer-creation.php:16
+#: templates/admin/preferences/email-templates/customer-reopen.php:16
+#: templates/admin/preferences/email-templates/customer-reply.php:16
+#: templates/admin/preferences/email-templates/staff-closure.php:16
+#: templates/admin/preferences/email-templates/staff-creation.php:16
+#: templates/admin/preferences/email-templates/staff-reopen.php:17
+#: templates/admin/preferences/email-templates/staff-reply.php:16
+msgid "New Reply"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/customer-closure.php:17
+#: templates/admin/preferences/email-templates/customer-creation.php:17
+#: templates/admin/preferences/email-templates/customer-reopen.php:17
+#: templates/admin/preferences/email-templates/customer-reply.php:17
+msgid "Closure"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/customer-closure.php:18
+#: templates/admin/preferences/email-templates/customer-creation.php:18
+#: templates/admin/preferences/email-templates/customer-reopen.php:18
+#: templates/admin/preferences/email-templates/customer-reply.php:18
+#: templates/admin/preferences/email-templates/staff-closure.php:18
+#: templates/admin/preferences/email-templates/staff-creation.php:18
+#: templates/admin/preferences/email-templates/staff-reopen.php:19
+#: templates/admin/preferences/email-templates/staff-reply.php:18
+msgid "Re-Opening"
+msgstr "بازگشایی"
+
+#: templates/admin/preferences/email-templates/staff-closure.php:15
+#: templates/admin/preferences/email-templates/staff-creation.php:15
+#: templates/admin/preferences/email-templates/staff-reopen.php:16
+#: templates/admin/preferences/email-templates/staff-reply.php:15
+msgid "Assignment"
+msgstr ""
+
+#: templates/admin/preferences/email-templates/staff-closure.php:17
+#: templates/admin/preferences/email-templates/staff-creation.php:17
+#: templates/admin/preferences/email-templates/staff-reopen.php:18
+#: templates/admin/preferences/email-templates/staff-reply.php:17
+msgid "Closure Request"
+msgstr ""
+
+#: templates/admin/preferences/email.php:15
+msgid "On Ticket Creation"
+msgstr ""
+
+#: templates/admin/preferences/email.php:17
+msgid "Send confirmational email to user when his ticket is successfully created."
+msgstr ""
+
+#: templates/admin/preferences/email.php:21
+msgid "Yes, send confirmation to user."
+msgstr ""
+
+#: templates/admin/preferences/email.php:25 templates/admin/preferences/email.php:66
+msgid "On New Reply"
+msgstr ""
+
+#: templates/admin/preferences/email.php:27
+msgid "Send notification email to user when Operator posts new reply on his ticket."
+msgstr ""
+
+#: templates/admin/preferences/email.php:31 templates/admin/preferences/email.php:41
+#: templates/admin/preferences/email.php:51
+msgid "Yes, send notification to user."
+msgstr ""
+
+#: templates/admin/preferences/email.php:35
+msgid "On Ticket Closure"
+msgstr ""
+
+#: templates/admin/preferences/email.php:37
+msgid "Send notification email to user when Operator closes his ticket."
+msgstr ""
+
+#: templates/admin/preferences/email.php:45 templates/admin/preferences/email.php:86
+msgid "On Re-Opening"
+msgstr ""
+
+#: templates/admin/preferences/email.php:47
+msgid "Send notification email to user when his ticket is re-opened."
+msgstr ""
+
+#: templates/admin/preferences/email.php:54
+msgid "Staff Members"
+msgstr ""
+
+#: templates/admin/preferences/email.php:56
+msgid "On Ticket Assignment"
+msgstr ""
+
+#: templates/admin/preferences/email.php:58
+msgid "Send notification email to Operator when new ticket is assigned to him."
+msgstr ""
+
+#: templates/admin/preferences/email.php:62 templates/admin/preferences/email.php:72
+#: templates/admin/preferences/email.php:82 92
+msgid "Yes, send notification to staff member."
+msgstr ""
+
+#: templates/admin/preferences/email.php:68
+msgid "Send notification email to Operator when customer posts a new reply on ticket."
+msgstr ""
+
+#: templates/admin/preferences/email.php:76
+msgid "On Ticket Closure Request"
+msgstr ""
+
+#: templates/admin/preferences/email.php:78
+msgid "Send notification email to Operator when customer request closure of his ticket."
+msgstr ""
+
+#: templates/admin/preferences/email.php:88
+msgid "Send notification email to Operator when customer re-opens his ticket."
+msgstr ""
+
+#: templates/admin/preferences/general.php:21
+msgid "Enable STAFF Ribbon"
+msgstr ""
+
+#: templates/admin/preferences/general.php:23
+msgid "Would you like to have ribbon over your avatar?"
+msgstr ""
+
+#: templates/admin/preferences/general.php:27
+msgid "Yes, show staff ribbon over avatars of staff members."
+msgstr ""
+
+#: templates/admin/preferences/general.php:33
+msgid "Customers can create public tickets?"
+msgstr ""
+
+#: templates/admin/preferences/general.php:37
+msgid "Yes, allow users to make their tickets publicly visible."
+msgstr ""
+
+#: templates/admin/preferences/general.php:40 templates/admin/tools.php:8
+msgid "User Roles"
+msgstr ""
+
+#: templates/admin/preferences/general.php:42
+msgid "Default Role"
+msgstr ""
+
+#: templates/admin/preferences/general.php:44
+msgid "Upon registration, users will be granted with this role."
+msgstr ""
+
+#: templates/admin/preferences/general.php:47
+msgid "- No default role -"
+msgstr ""
+
+#: templates/admin/preferences/general.php:59
+msgid "Allow upload"
+msgstr ""
+
+#: templates/admin/preferences/general.php:61
+msgid "Allow customers to upload files along with tickets & replies."
+msgstr ""
+
+#: templates/admin/preferences/general.php:65
+msgid "Yes, allow users to upload attachments with tickets and replies."
+msgstr ""
+
+#: templates/admin/preferences/general.php:69
+msgid "Allow download"
+msgstr ""
+
+#: templates/admin/preferences/general.php:71
+msgid "Allow customers to download their files anytime."
+msgstr ""
+
+#: templates/admin/preferences/general.php:75
+msgid "Yes, allow users to download attachments from tickets and replies."
+msgstr ""
+
+#: templates/admin/preferences/general.php:81
+msgid "Maximum size of single file, not the size of whole upload."
+msgstr ""
+
+#: templates/admin/preferences/general.php:86
+#, php-format
+msgid "Max. possible value is <code>%sb</code>, according to <code>%s</code>."
+msgstr ""
+
+#: templates/admin/preferences/general.php:90
+msgid "Max. files per ticket"
+msgstr ""
+
+#: templates/admin/preferences/general.php:92
+msgid "How many files can user attach to single ticket?"
+msgstr ""
+
+#: templates/admin/preferences/general.php:96 templates/admin/preferences/general.
+#: php:106
+#, php-format
+msgid "Max. possible value is <code>%s</code>, according to <code>%s</code>."
+msgstr ""
+
+#: templates/admin/preferences/general.php:100
+msgid "Max. files per reply"
+msgstr ""
+
+#: templates/admin/preferences/general.php:102
+msgid "How many files can user attach to single ticket reply?"
+msgstr ""
+
+#: templates/admin/preferences/general.php:110
+msgid "Attachment Mime-types"
+msgstr ""
+
+#: templates/admin/preferences/general.php:112
+msgid "Allowed Mime-types"
+msgstr ""
+
+#: templates/admin/preferences/general.php:114
+msgid "File extensions (comma separated) that are allowed for upload."
+msgstr ""
+
+#: templates/admin/preferences/general.php:121
+msgid "Forbid Mime-types"
+msgstr ""
+
+#: templates/admin/preferences/general.php:123
+msgid "Instead of allowing above mime-types, you can forbid them."
+msgstr ""
+
+#: templates/admin/preferences/general.php:127
+msgid "Forbid above extensions and allow all others."
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:10
+msgid "Use Front-End Pages"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:12
+msgid "Are you going to use AIOSC in front-end?"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:16
+msgid "Yes, enable front-end pages."
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:24
+msgid "Which page will display this form?"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:35
+#, php-format
+msgid "Use <code>%s</code> shortcode on this page to display form."
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:39
+msgid "Ticket Preview (Single)"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:41
+msgid "Which page will display single ticket preview?"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:52
+#, php-format
+msgid "Use <code>%s</code> shortcode on this page to ticket preview."
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:56
+msgid "Ticket List (My Tickets)"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:58
+msgid "Which page will display list of all user's tickets?"
+msgstr ""
+
+#: templates/admin/preferences/pages/general.php:69
+#, php-format
+msgid "Use <code>%s</code> shortcode on this page to display ticket list."
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:18
+#, php-format
+msgid "Confirm deletion of %d priority"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:20
+#, php-format
+msgid "Confirm deletion of %d priorities"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:24
+#, php-format
+msgid "Confirm activation of %d priority"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:26
+#, php-format
+msgid "Confirm activation of %d priorities"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:30
+#, php-format
+msgid "Confirm deactivation of %d priority"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:32
+#, php-format
+msgid "Confirm deactivation of %d priorities"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:43
+msgid "Priorities to be deleted:"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:45
+msgid "Priorities to be activated:"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:47
+msgid "Priorities to be deactivated:"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:63
+#, php-format
+msgid "Level: %d"
+msgstr ""
+
+#: templates/admin/preferences/priorities-confirm.php:78
+msgid "What would you like to do with tickets that use this priority:"
+msgstr ""
+
+#: templates/admin/preferences/priorities-new.php:54
+msgid "Use colors for easier managing."
+msgstr ""
+
+#: templates/admin/preferences/priorities-new.php:64
+msgid "Is this priority available for use?"
+msgstr ""
+
+#: templates/admin/preferences/priorities.php:76
+msgid "Delete permanently this priority"
+msgstr ""
+
+#: templates/admin/preferences/priorities.php:81
+#, php-format
+msgid "View all tickets with &quot;%s&quot; priority."
+msgstr ""
+
+#: templates/admin/preferences/priorities.php:86
+msgid "No priorities found."
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:19
+msgid "At least, how many characters subject must contain?"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:28
+msgid "At least, how many characters content must contain?"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:35
+msgid "Creation Delay"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:37
+msgid "How much time must pass before customer can create another ticket?"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:44
+msgid "Allow Re-Opening"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:46
+msgid "Would you like to let your customers re-open closed tickets?"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:50
+msgid "Yes, let customers re-open closed tickets."
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:56
+msgid "Min. Reply Length"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:58
+msgid "At least, how many characters reply content must contain?"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:65
+msgid "Reply Delay"
+msgstr ""
+
+#: templates/admin/preferences/tickets.php:67
+msgid "How much time must pass before customer can post another reply on the same ticket?"
+msgstr ""
+
+#: templates/admin/preferences.php:20
+msgid ""
+"Setup AIO Support Center to suit your needs, but make sure you read documentation "
+"carefully so you know what you are doing."
+msgstr ""
+
+#: templates/admin/ticket/form.php:39
+msgid "Which department your ticket belongs to?"
+msgstr ""
+
+#: templates/admin/ticket/form.php:58
+msgid "How urgent is your request?"
+msgstr ""
+
+#: templates/admin/ticket/form.php:79
+msgid "Do you want to create this ticket for specific user?"
+msgstr ""
+
+#: templates/admin/ticket/form.php:95
+msgid "Would you like your ticket to be publicly visible?"
+msgstr ""
+
+#: templates/admin/ticket/form.php:97 templates/shortcodes/new-form/form.php:79
+msgid "Yes, allow others to see this ticket."
+msgstr ""
+
+#: templates/admin/ticket/list/page.php:37
+msgid "Screen Options Tab"
+msgstr ""
+
+#: templates/admin/ticket/list/page.php:100
+msgid "Screen Options"
+msgstr ""
+
+#: templates/admin/ticket/list/page.php:120 templates/shortcodes/list/page.php:34
+msgid "Search"
+msgstr "جستجو"
+
+#: templates/admin/ticket/list/page.php:152 templates/admin/ticket/list/page.php:164
+#: templates/shortcodes/list/page.php:66 templates/shortcodes/list/page.php:78
+#, php-format
+msgid "Me (%s)"
+msgstr ""
+
+#: templates/admin/ticket/list/page.php:177 templates/shortcodes/list/page.php:91
+msgid "Only show tickets which require staff reply."
+msgstr ""
+
+#: templates/admin/ticket/list/page.php:179 templates/shortcodes/list/page.php:93
+msgid "Only show tickets with requested closure."
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:19
+#, php-format
+msgid "Confirm deletion of %d ticket"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:21
+#, php-format
+msgid "Confirm deletion of %d tickets"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:35
+msgid "Tickets to be deleted:"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:37
+msgid "Tickets to be edited:"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:55
+#, php-format
+msgid "Assigned To: %s"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:62
+msgid "Please <a href=\"%\">refresh</a> the page."
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:83
+#: templates/admin/ticket/list/table-confirm.php:101
+#: templates/admin/ticket/list/table-confirm.php:133
+msgid "- Do not change -"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:85
+#, php-format
+msgid "Assign to: %s"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:103
+#, php-format
+msgid "Set to: %s"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:142
+msgid "Delete Attachments:"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:146
+msgid "Yes, delete all attachments associated with this ticket"
+msgstr ""
+
+#: templates/admin/ticket/list/table-confirm.php:154
+#: templates/admin/ticket/single/page.php:268
+msgid "Save Edits"
+msgstr ""
+
+#: templates/admin/ticket/list/table.php:232 templates/shortcodes/list/table.php:136
+msgid "Has attachment(s)"
+msgstr ""
+
+#: templates/admin/ticket/list/table.php:232 templates/shortcodes/list/table.php:136
+#, php-format
+msgid "Attachments: %s"
+msgstr ""
+
+#: templates/admin/ticket/list/table.php:237
+msgid "Edit this ticket"
+msgstr ""
+
+#: templates/admin/ticket/list/table.php:242
+msgid "Delete permanently this ticket"
+msgstr ""
+
+#: templates/admin/ticket/single/page.php:85
+msgid "You are currently in <code>TICKET EDIT MODE</code> so you cannot post replies."
+msgstr ""
+
+#: templates/admin/ticket/single/page.php:93
+msgid "More Details"
+msgstr ""
+
+#: templates/admin/ticket/single/page.php:108
+msgid "Re-Open?"
+msgstr "بازگشایی؟"
+
+#: templates/admin/ticket/single/page.php:143 templates/admin/ticket/single/page. php:153
+#: templates/shortcodes/single/sidebar.php:40 templates/shortcodes/single/sidebar. php:49
+msgid "View profile"
+msgstr ""
+
+#: templates/admin/ticket/single/page.php:179 templates/shortcodes/single/sidebar. php:69
+msgid "Open since"
+msgstr "باز از"
+
+#: templates/admin/ticket/single/page.php:222 templates/shortcodes/single/sidebar.
+#: php:115
+#, php-format
+msgid "There are %d files attached with total size of %s Mb"
+msgstr ""
+
+#: templates/admin/ticket/single/page.php:265 templates/shortcodes/single/sidebar.
+#: php:159
+msgid "Close (REQUESTED)"
+msgstr ""
+
+#: templates/admin/ticket/single/page.php:287 templates/shortcodes/single/page. php:28
+msgid "Untitled ticket"
+msgstr ""
+
+#: templates/admin/ticket/single/popup/close-ticket.php:2
+#: templates/admin/ticket/single/popup/reopen-ticket.php:3
+#: templates/admin/ticket/single/popup/reply-edit.php:2
+#: templates/admin/ticket/single/popup/reply-remove.php:2
+#: templates/admin/ticket/single/popup/request-closure.php:2
+#: templates/shortcodes/single/popup/close-ticket.php:2
+#: templates/shortcodes/single/popup/reopen-ticket.php:3
+#: templates/shortcodes/single/popup/request-closure.php:2
+msgid "Close popup"
+msgstr ""
+
+#: templates/admin/ticket/single/popup/close-ticket.php:19
+#: templates/shortcodes/single/popup/close-ticket.php:19
+msgid "Send an e-mail notification telling customer his ticket was closed."
+msgstr ""
+
+#: templates/admin/ticket/single/popup/reopen-ticket.php:13
+#: templates/shortcodes/single/popup/reopen-ticket.php:13
+msgid "Are you sure you want to re-open on this ticket?"
+msgstr ""
+
+#: templates/admin/ticket/single/popup/reopen-ticket.php:18
+#: templates/shortcodes/single/popup/reopen-ticket.php:18
+msgid "Send an e-mail notification telling customer his ticket is open again."
+msgstr ""
+
+#: templates/admin/ticket/single/popup/reply-remove.php:12
+msgid "Are you sure you want to remove this reply?"
+msgstr ""
+
+#: templates/admin/ticket/single/popup/request-closure.php:4
+#: templates/shortcodes/single/popup/request-closure.php:4
+msgid "Request ticket closure"
+msgstr ""
+
+#: templates/admin/ticket/single/popup/request-closure.php:12
+#: templates/shortcodes/single/popup/request-closure.php:12
+msgid "Are you sure you want to request closure on this ticket?"
+msgstr ""
+
+#: templates/admin/ticket/single/reply/form.php:6
+msgid "Click here to show reply form."
+msgstr ""
+
+#: templates/admin/ticket/single/reply/form.php:26
+#: templates/shortcodes/single/reply/form.php:24
+msgid "- Select Pre-Made Response -"
+msgstr ""
+
+#: templates/admin/ticket/single/reply/form.php:29
+#: templates/shortcodes/single/reply/form.php:27
+msgid "My Responses"
+msgstr ""
+
+#: templates/admin/ticket/single/reply/form.php:38
+#: templates/shortcodes/single/reply/form.php:36
+msgid "Shared by others"
+msgstr ""
+
+#: templates/admin/ticket/single/reply/single.php:18
+#: templates/shortcodes/single/reply/single.php:18
+msgid "This reply is being posted by Staff member."
+msgstr ""
+
+#: templates/admin/ticket/single/reply/single.php:18
+#: templates/shortcodes/single/reply/single.php:18
+msgid "STAFF"
+msgstr "مسئول"
+
+#: templates/admin/ticket/single/reply/single.php:24
+msgid "Delete this reply"
+msgstr ""
+
+#: templates/admin/ticket/ticket-error.php:3
+msgid "Error - Ticket Not Found"
+msgstr ""
+
+#: templates/admin/ticket/ticket-error.php:5
+msgid ""
+"Ticket you are looking for doesn't exist or you don't have the right permission to "
+"access it."
+msgstr ""
+
+#: templates/admin/tools/general.php:9
+msgid "Remove old SC roles"
+msgstr ""
+
+#: templates/admin/tools/general.php:11
+msgid "If you had old Support Center (v1.3.9) installed, you should check this box."
+msgstr ""
+
+#: templates/admin/tools/general.php:15
+msgid "Yes, get rid of old Support Center roles."
+msgstr ""
+
+#: templates/admin/tools/general.php:20
+msgid "Update Current Roles"
+msgstr ""
+
+#: templates/admin/tools/general.php:22
+msgid "Mass-Update current roles for all users (except staff members)."
+msgstr ""
+
+#: templates/admin/tools/general.php:25
+msgid "- Select role -"
+msgstr ""
+
+#: templates/admin/tools.php:5
+msgid "Here are some AIOSC tools that we found useful they may be of use for you too."
+msgstr ""
+
+#: templates/shortcodes/list/error.php:24
+msgid "<strong>Error:</strong> You do not have permission to view this list."
+msgstr ""
+
+#: templates/shortcodes/list/error.php:28 templates/shortcodes/single/error.php:37
+#, php-format
+msgid "« Go back to <a href=\"%s\">Home</a>"
+msgstr ""
+
+#: templates/shortcodes/list/error.php:39 templates/shortcodes/new-form/error.php:35
+#: templates/shortcodes/single/error.php:49
+#, php-format
+msgid "Don't have an account yet? <a href='%s'>Register Now!</a>"
+msgstr ""
+
+#: templates/shortcodes/list/error.php:43 templates/shortcodes/new-form/error.php:39
+#: templates/shortcodes/single/error.php:53
+msgid "<strong>Note:</strong> Registrations for new users are closed."
+msgstr ""
+
+#: templates/shortcodes/new-form/error.php:23
+msgid "<strong>Error:</strong> You do not have permission to create new tickets."
+msgstr ""
+
+#: templates/shortcodes/new-form/error.php:29
+msgid "In order to create new ticket, you must login with your account first."
+msgstr ""
+
+#: templates/shortcodes/single/error.php:25
+msgid "<strong>Error:</strong> You do not have permission to view this ticket."
+msgstr ""
+
+#: templates/shortcodes/single/error.php:29
+msgid "<strong>Error:</strong> Ticket you are trying to view does not exist."
+msgstr ""
+
+#: templates/shortcodes/single/error.php:35
+#, php-format
+msgid "« Go back to <a href=\"%s\">List</a>"
+msgstr ""
+
+#: templates/shortcodes/single/error.php:43
+msgid "In order to view this ticket, you must login with your account first."
+msgstr ""
+
+#: templates/admin/preferences/departments-confirm.php:63
+#, php-format
+msgid "Operators: %d"
+msgstr ""
+
+#: templates/shortcodes/list/error.php:9 templates/shortcodes/new-form/error.php:8
+#: templates/shortcodes/single/error.php:9
+msgid "Remember Me"
+msgstr "من را به خاطر بسپار"
+
+#: templates/shortcodes/list/error.php:33
+msgid "In order to view this list, you must login with your account first."
+msgstr "برای دیدن لیست، باید با اکانت خود وارد سایت شوید"
+
+#: class/class.reply-manager.php:39 class/class.ticket-manager.php:59
+msgid ""
+"<strong>Error:</strong> Description is too short. Please write a more constructive "
+"description."
+msgstr "<strong>خطا:</strong> توضیحات خیلی کوتاه است. لطفا توضیحات مبسوط تری بنویسید."
+
+#: class/class.reply-manager.php:106
+msgid "Reply was posted successfully."
+msgstr "پاسخ با موفقیت ارسال شد."
+
+#: class/class.ticket-manager.php:56
+#, php-format
+msgid "<strong>Error:</strong> Subject is too short. Minimum length is %d characters."
+msgstr "<strong>خطا:</strong> موضوع خیلی کوتاه است. حداقل طول %d کاراکتر است."
+
+#: class/class.ticket-manager.php:63
+msgid "<strong>Error:</strong> Please select an department."
+msgstr "<strong>خطا:</strong> لطفا یک بخش را انتخاب کنید."
+
+#: class/class.ticket-manager.php:71
+msgid "<strong>Error:</strong> Please select a priority."
+msgstr "<strong>خطا:</strong> لطفا اولویت را انتخاب کنید."
+
+#: class/class.ticket-manager.php:148
+#, php-format
+msgid "Ticket created successfully. Click <a href=\"%s\">here</a> to view your ticket."
+msgstr ""
+"درخواست با موفقیت ایجاد شد. برای مشاهده درخواست <a href=\"%s\">اینجا</a> کلیک کنید."
+
+#: class/class.ticket-manager.php:184
+#, php-format
+msgid ""
+"Ticket <code>#%s</code> has been closed. Please <a href=\"%s\">refresh</a> the page."
+msgstr "درخواست <code>#%s</code> بسته شده. لطفا برگه را <a href=\"%s\">بازآوری</a> کنید."
+
+#: inc/vars.php:56 inc/vars.php:66
+msgid "Attachments Size (in Kb)"
+msgstr "حداکثر حجم ضمیمه (کیلوبایت)"
+
+#: inc/vars.php:82 templates/admin/ticket/list/page.php:74
+#: templates/admin/ticket/list/table.php:91 templates/admin/ticket/list/table.php:174
+#: templates/admin/ticket/single/page.php:150 templates/shortcodes/single/sidebar. php:47
+msgid "Operator"
+msgstr "مسئول"
+
+#: templates/admin/my-account/general.php:35
+#: templates/admin/my-account/premade-responses-new.php:67
+#: templates/admin/preferences/cron/auto-close.php:157
+#: templates/admin/preferences/cron/general.php:38
+#: templates/admin/preferences/cron/reminder-queue.php:75
+#: templates/admin/preferences/departments-confirm.php:104
+#: templates/admin/preferences/departments-new.php:89
+#: templates/admin/preferences/email-piping.php:100
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:47
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:47
+#: templates/admin/preferences/email-templates/customer-closure.php:50
+#: templates/admin/preferences/email-templates/customer-creation.php:50
+#: templates/admin/preferences/email-templates/customer-reopen.php:50
+#: templates/admin/preferences/email-templates/customer-reply.php:50
+#: templates/admin/preferences/email-templates/staff-closure.php:50
+#: templates/admin/preferences/email-templates/staff-creation.php:50
+#: templates/admin/preferences/email-templates/staff-reopen.php:51
+#: templates/admin/preferences/email-templates/staff-reply.php:50
+#: templates/admin/preferences/email.php:99 templates/admin/preferences/general. php:134
+#: templates/admin/preferences/pages/general.php:76
+#: templates/admin/preferences/priorities-confirm.php:103
+#: templates/admin/preferences/priorities-new.php:76
+#: templates/admin/preferences/tickets.php:78 templates/admin/ticket/form.php:130
+#: templates/admin/ticket/list/table-confirm.php:155
+#: templates/admin/ticket/single/popup/close-ticket.php:22
+#: templates/admin/ticket/single/popup/reply-edit.php:21
+#: templates/admin/tools/general.php:39
+#: templates/shortcodes/single/popup/close-ticket.php:22
+msgid "Discard"
+msgstr "دور انداختن"
+
+#: templates/admin/my-account/premade-responses.php:18
+#: templates/admin/preferences/departments.php:18
+#: templates/admin/preferences/priorities.php:18
+#: templates/admin/ticket/list/table.php:242
+msgid "Delete"
+msgstr "حذف"
+
+#: templates/admin/my-account/premade-responses.php:20
+#: templates/admin/preferences/departments.php:20
+#: templates/admin/preferences/priorities.php:20 templates/admin/ticket/list/page. php:93
+#: templates/admin/ticket/list/page.php:201
+msgid "Apply"
+msgstr "اعمال"
+
+#: templates/admin/my-account/premade-responses.php:62
+#: templates/admin/my-account/premade-responses.php:67
+#: templates/admin/preferences/departments.php:64
+#: templates/admin/preferences/departments.php:69
+#: templates/admin/preferences/priorities.php:68
+#: templates/admin/preferences/priorities.php:73
+#: templates/admin/ticket/list/table.php:237
+msgid "Edit"
+msgstr "ویرایش"
+
+#: templates/admin/my-account/premade-responses.php:74
+#: templates/admin/ticket/list/page.php:145
+#: templates/admin/ticket/list/table-confirm.php:135
+#: templates/admin/ticket/single/page.php:169 templates/shortcodes/list/page.php:59
+#: templates/shortcodes/single/sidebar.php:61
+msgid "Private"
+msgstr "خصوصی"
+
+#: templates/admin/preferences/email-piping.php:57
+#: templates/admin/preferences/email-piping.php:76 templates/admin/ticket/form. php:41
+#: templates/admin/ticket/form.php:60 templates/shortcodes/new-form/form.php:39
+#: templates/shortcodes/new-form/form.php:59
+msgid "Please select..."
+msgstr "لطفا انتخاب کنید..."
+
+#: templates/admin/preferences/general.php:79
+msgid "Maximum file size (Kb)"
+msgstr "حداکثر حجم فایل (کیلوبایت)"
+
+#: templates/admin/ticket/form.php:104 templates/shortcodes/new-form/form.php:87
+#, php-format
+msgid "You can attach up to %s files per ticket."
+msgstr "شما می‌توانید تا %s فایل به درخواست ضمیمه کنید."
+
+#: templates/admin/ticket/form.php:111 templates/shortcodes/new-form/form.php:94
+msgctxt "File Upload"
+msgid "+ New File"
+msgstr "+ افزودن فایل"
+
+#: templates/admin/ticket/form.php:117 templates/admin/ticket/single/reply/form. php:70
+#: templates/shortcodes/new-form/form.php:100
+#: templates/shortcodes/single/reply/form.php:68
+#, php-format
+msgid ""
+"Maximum number of attachments: <strong>%d</strong> | Maximum size per file: <strong>%s</"
+"strong> Kb"
+msgstr ""
+"حداکثر تعداد ضمیمه‌ها: <strong>%d</strong> | حداکثر حجم هر فایل: <strong>%s</strong> Kb"
+
+#: templates/admin/ticket/list/page.php:43 templates/admin/ticket/list/table.php:226
+#: templates/shortcodes/list/table.php:130
+msgid "Awaiting staff reply"
+msgstr "در انتظار پاسخ مسئول"
+
+#: templates/admin/ticket/list/page.php:46 templates/admin/ticket/list/page.php:179
+#: templates/admin/ticket/list/table.php:229 templates/shortcodes/list/page.php:93
+#: templates/shortcodes/list/table.php:133
+msgid "Requested closure"
+msgstr "بسته شده به درخواست"
+
+#: templates/admin/ticket/list/page.php:119 templates/shortcodes/list/page.php:33
+msgid "Search by #ID or term"
+msgstr "جستجو با شماره شناسه یا کلمه"
+
+#: templates/admin/ticket/list/page.php:146
+#: templates/admin/ticket/list/table-confirm.php:134
+#: templates/admin/ticket/single/page.php:64 templates/admin/ticket/single/page. php:169
+#: templates/shortcodes/list/page.php:60 templates/shortcodes/single/sidebar.php:61
+msgid "Public"
+msgstr "عمومی"
+
+#: templates/admin/ticket/list/page.php:182 templates/shortcodes/list/page.php:96
+msgid "Apply Filters"
+msgstr "اعمال فیلترها"
+
+#: templates/admin/ticket/list/page.php:183 templates/shortcodes/list/page.php:97
+msgid "Reset"
+msgstr "بازنشانی"
+
+#: templates/admin/ticket/list/table-confirm.php:127
+msgid "Visibility:"
+msgstr "قابلیت دید:"
+
+#: templates/admin/ticket/list/table.php:304 templates/shortcodes/list/table.php:161
+msgid "No tickets found."
+msgstr "درخواستی یافت‌نشد."
+
+#: templates/admin/ticket/single/page.php:95 templates/shortcodes/single/sidebar. php:13
+msgid "Details"
+msgstr "جزییات"
+
+#: templates/admin/ticket/single/page.php:166 templates/shortcodes/single/sidebar. php:60
+msgid "Visibility"
+msgstr "قابلیت دید"
+
+#: templates/admin/ticket/single/page.php:184 templates/shortcodes/single/sidebar. php:75
+msgid "Closed since"
+msgstr "بسته شده از"
+
+#: templates/admin/ticket/single/page.php:255
+#: templates/admin/ticket/single/popup/reopen-ticket.php:5
+#: templates/shortcodes/single/popup/reopen-ticket.php:5
+#: templates/shortcodes/single/sidebar.php:149
+msgid "Re-Open Ticket"
+msgstr "بازکردن مجدد درخواست"
+
+#: templates/admin/ticket/single/page.php:258 templates/shortcodes/single/sidebar.
+#: php:155
+msgid "Request Closure"
+msgstr "درخواست بسته شدن"
+
+#: templates/admin/ticket/single/page.php:261 templates/shortcodes/single/sidebar.
+#: php:152
+msgid "Edit Mode"
+msgstr "حالت ویرایش"
+
+#: templates/admin/ticket/single/popup/close-ticket.php:20
+#: templates/admin/ticket/single/popup/reopen-ticket.php:19
+#: templates/shortcodes/single/popup/close-ticket.php:20
+#: templates/shortcodes/single/popup/reopen-ticket.php:19
+msgid "Send notification to customer."
+msgstr "ارسال اطلاع رسانی به مشتری."
+
+#: templates/admin/ticket/single/reply/form.php:9
+#: templates/shortcodes/single/reply/form.php:5
+msgid "Post new Reply"
+msgstr "ارسال پاسخ جدید"
+
+#: templates/admin/ticket/single/reply/list.php:20
+#: templates/shortcodes/single/reply/list.php:17
+#, php-format
+msgid "There is %s reply posted on this ticket and last reply was posted by %s."
+msgid_plural "There are %s replies posted on this ticket and last reply was posted by %s."
+msgstr[0] "برای این درخواست %s پاسخ ارسال شده و آخرین پاسخ توسط %s ارسال شده."
+msgstr[1] "برای این درخواست %s پاسخ ارسال شده و آخرین پاسخ توسط %s ارسال شده."
+
+#: templates/admin/ticket/single/reply/list.php:22
+#: templates/shortcodes/single/reply/list.php:21
+msgid "There are no replies yet."
+msgstr "هیچ پاسخ ارائه نشده است."
+
+#: templates/admin/ticket/single/reply/list.php:40
+#: templates/shortcodes/single/reply/list.php:37
+msgid "No more replies"
+msgstr "پاسخ بیشتری نیست"
+
+#: templates/admin/ticket/single/reply/list.php:43
+#: templates/shortcodes/single/reply/list.php:40
+msgid "No replies posted yet."
+msgstr "تا کنون پاسخی ارسال نشده."
+
+#: templates/admin/ticket/single/reply/single.php:27
+#: templates/shortcodes/single/reply/single.php:23
+#, php-format
+msgid "Posted by %s, %s - <em>%s at %s</em>"
+msgstr "ارسال شده توسط %s، %s - <em>%s در %s</em>"
+
+#: templates/shortcodes/single/page.php:30
+#, php-format
+msgid "Created by <a href=\"%s\">%s</a> on %s"
+msgstr "ایجاد توسط <a href=\"%s\">%s</a> در %s"
+
+#: class/class.capabilities.php:82
+msgid "Ticket Operator"
+msgstr "مسئول درخواست"
+
+#: class/class.department-manager.php:200
+msgid "General Questions"
+msgstr "سوالات عمومی"
+
+#: class/class.ticket.php:19 templates/admin/ticket/list/page.php:113
+#: templates/shortcodes/list/page.php:27
+msgid "In Queue"
+msgstr "در صف"
+
+#: inc/vars.php:48 templates/admin/my-account/premade-responses.php:32
+#: templates/admin/my-account/premade-responses.php:43
+#: templates/admin/preferences/departments.php:33
+#: templates/admin/preferences/departments.php:45
+#: templates/admin/preferences/priorities.php:33
+#: templates/admin/preferences/priorities.php:45 templates/admin/ticket/list/page. php:81
+#: templates/admin/ticket/list/table.php:107 templates/admin/ticket/list/table. php:190
+#: templates/admin/ticket/single/page.php:175 templates/shortcodes/list/table.php:60
+#: templates/shortcodes/list/table.php:104 templates/shortcodes/single/sidebar. php:64
+msgid "Date Created"
+msgstr "تاریخ ایجاد"
+
+#: templates/admin/preferences/general.php:31
+msgid "Enable Public Tickets"
+msgstr "فعال‌سازی درخواست‌های عمومی"
+
+#: templates/admin/preferences/general.php:57 templates/admin/ticket/list/page. php:49
+#: templates/admin/ticket/single/page.php:198
+#: templates/admin/ticket/single/reply/single.php:35
+#: templates/shortcodes/single/reply/single.php:32
+#: templates/shortcodes/single/sidebar.php:91
+msgid "Attachments"
+msgstr "ضمیمه‌ها"
+
+#: templates/admin/preferences/general.php:85
+msgid "Kb"
+msgstr "کیلوبایت"
+
+#: templates/admin/preferences/pages/general.php:22
+msgid "New Ticket Form"
+msgstr "فرم درخواست جدید"
+
+#: templates/admin/preferences/pages/general.php:27
+#: templates/admin/preferences/pages/general.php:44
+#: templates/admin/preferences/pages/general.php:61
+msgid "- None -"
+msgstr "- هیچکدام -"
+
+#: templates/admin/preferences/priorities-new.php:43
+#: templates/admin/preferences/priorities.php:31
+#: templates/admin/preferences/priorities.php:43
+msgid "Level"
+msgstr "سطح"
+
+#: templates/admin/preferences/priorities-new.php:45
+msgid "Higher level = higher importance."
+msgstr "سطح بالاتر = اهمیت بالاتر."
+
+#: templates/admin/preferences/priorities-new.php:52
+msgid "Color"
+msgstr "رنگ"
+
+#: templates/admin/preferences/priorities.php:30
+#: templates/admin/preferences/priorities.php:42 templates/admin/preferences.php:26
+msgid "Priorities"
+msgstr "اولویت‌ها"
+
+#: templates/admin/preferences/priorities.php:73
+msgid "Edit this priority"
+msgstr "ویرایش این اولویت"
+
+#: templates/admin/preferences.php:27
+msgid "E-Mail"
+msgstr "ایمیل"
+
+#: templates/admin/preferences.php:28
+msgid "E-Mail Templates"
+msgstr "قالب‌های ایمیل"
+
+#: templates/admin/preferences.php:31
+msgid "Add-Ons"
+msgstr "افزونه‌ها"
+
+#: templates/admin/ticket/form.php:94 templates/shortcodes/new-form/form.php:78
+msgid "Public ticket?"
+msgstr "تیکت عمومی؟"
+
+#: templates/admin/ticket/list/page.php:52
+msgid "Show columns"
+msgstr "نمایش ستون‌ها"
+
+#: templates/admin/ticket/list/page.php:177 templates/shortcodes/list/page.php:91
+msgid "Awaiting reply"
+msgstr "در انتظار پاسخ"
+
+#: templates/admin/ticket/single/page.php:291
+#, php-format
+msgid "Created by <a href=\"%s\">%s</a> on %s at %s"
+msgstr "توسط <a href=\"%s\">%s</a> در %s در %s"
+
+#: templates/admin/ticket/single/page.php:313 templates/shortcodes/single/page. php:41
+msgid "End of content"
+msgstr "پایان محتوی"
+
+#: templates/admin/ticket/single/popup/reply-edit.php:20
+msgid "Update Reply"
+msgstr "به‌روزرسانی پاسخ"
+
+#: templates/admin/ticket/single/popup/reply-remove.php:4
+msgid "Remove Reply"
+msgstr "حذف‌کردن پاسخ"
+
+#: templates/admin/ticket/single/reply/form.php:64
+#: templates/shortcodes/single/reply/form.php:62
+msgid "Attach file"
+msgstr "ضمیمه‌کردن فایل"
+
+#: templates/admin/ticket/single/reply/form.php:77
+#: templates/shortcodes/single/reply/form.php:75
+msgid "Post Reply"
+msgstr "ارسال پاسخ"
+
+#: templates/admin/ticket/single/reply/form.php:81
+#: templates/shortcodes/single/reply/form.php:80
+msgid "Posting reply..."
+msgstr "ارسال پاسخ..."
+
+#: templates/admin/ticket/single/reply/list.php:38
+#: templates/shortcodes/single/reply/list.php:35
+msgid "Load More"
+msgstr "بارگزاری ادامه"
+
+#: templates/admin/ticket/single/reply/single.php:25
+msgid "Edit this reply"
+msgstr "ویرایش این پاسخ"
+
+#: templates/shortcodes/list/error.php:7 templates/shortcodes/new-form/error.php:6
+#: templates/shortcodes/single/error.php:7
+msgid "Username"
+msgstr "نام‌کاربری"
+
+#: templates/shortcodes/list/error.php:8 templates/shortcodes/new-form/error.php:7
+#: templates/shortcodes/single/error.php:8
+msgid "Password"
+msgstr "کلمه‌عبور"
+
+#: templates/shortcodes/list/error.php:10 templates/shortcodes/new-form/error.php:9
+#: templates/shortcodes/single/error.php:10
+msgid "Log In"
+msgstr "ورود"
+
+#: class/class.capabilities.php:113 inc/vars.php:70
+msgid "Customer"
+msgstr "مشتری"
+
+#: class/class.capabilities.php:147 templates/admin/preferences/cron/auto-close. php:122
+#: templates/admin/preferences/cron/reminder-queue.php:67
+msgid "None"
+msgstr "هیچ‌کدام"
+
+#: class/class.ticket.php:20 templates/admin/ticket/list/page.php:114
+#: templates/shortcodes/list/page.php:28
+msgid "Open"
+msgstr "باز"
+
+#: class/class.ticket.php:21 templates/admin/ticket/list/page.php:115
+#: templates/shortcodes/list/page.php:29
+msgid "Closed"
+msgstr "بسته"
+
+#: inc/hooks.php:132
+msgid "Change"
+msgstr "تغییر"
+
+#: inc/hooks.php:165 templates/admin/preferences/departments.php:32
+#: templates/admin/preferences/departments.php:44
+#: templates/admin/preferences/priorities.php:32
+#: templates/admin/preferences/priorities.php:44
+#: templates/admin/preferences/tickets.php:15 templates/admin/preferences.php:24
+#: templates/admin/ticket/list/page.php:88
+msgid "Tickets"
+msgstr "درخواست‌ها"
+
+#: inc/hooks.php:252 inc/pages.php:31
+msgid "AIO Support Center"
+msgstr "مرکز پشتیبانی"
+
+msgid "AIO Support Center Persian"
+msgstr "مرکز پشتیبانی پارسی"
+
+#: inc/pages.php:25
+#, php-format
+msgid "Support %s"
+msgstr "پشتیبانی %s"
+
+#: inc/pages.php:28
+msgid "Support Center"
+msgstr "مرکز پشتیبانی"
+
+#: inc/pages.php:32
+msgid "AIO Support Center - All Tickets"
+msgstr "مرکز پشتیبانی ۰ همه درخواست‌ها"
+
+#: inc/pages.php:32
+msgid "All Tickets"
+msgstr "همه درخواست‌ها"
+
+#: inc/pages.php:34
+msgid "AIO Support Center - Ticket Preview"
+msgstr "مرکز پشتیبانی - پیش‌نمایش درخواست"
+
+#: inc/pages.php:34
+msgid "Ticket Preview"
+msgstr "پیش‌نمایش درخواست"
+
+#: inc/pages.php:37
+msgid "AIO Support Center - My Account"
+msgstr "مرکز پشتیبانی - حساب من"
+
+#: inc/pages.php:37 templates/admin/my-account.php:20
+msgid "My Account"
+msgstr "حساب من"
+
+#: inc/pages.php:40
+msgid "AIO Support Center - Create New"
+msgstr "مرکز پشتیبانی - ایجاد جدید"
+
+#: inc/pages.php:40
+msgid "Create New"
+msgstr "ایجاد جدید"
+
+#: inc/pages.php:45
+msgid "AIO Support Center - Preferences"
+msgstr "مرکز پشتیبانی - تنظیمات"
+
+#: inc/pages.php:45 templates/admin/preferences.php:19
+msgid "Preferences"
+msgstr "تنظیمات"
+
+#: inc/pages.php:46
+msgid "AIO Support Center - Tools"
+msgstr "مرکز پشتیبانی - ابزارها"
+
+#: inc/pages.php:46 templates/admin/tools.php:4
+msgid "Tools"
+msgstr "ابزار‌ها"
+
+#: inc/tools.php:212
+msgid "ago"
+msgstr "قبل"
+
+#: inc/tools.php:216
+msgid "from now"
+msgstr "از حالا"
+
+#: inc/tools.php:222
+msgid "just now"
+msgstr "همین حالا"
+
+#: inc/tools.php:382
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d مورد"
+msgstr[1] "%d مورد"
+
+#: inc/tools.php:382
+#, php-format
+msgid "total: %d"
+msgstr "مجموع: %d"
+
+#: inc/tools.php:397
+msgid "Current page"
+msgstr "برگه جاری"
+
+#: inc/tools.php:398
+#, php-format
+msgid "of <span class=\"total-pages\">%d</span>"
+msgstr "از %d"
+
+#: inc/vars.php:33
+msgid "Ticket"
+msgstr "تیکیت"
+
+#: inc/vars.php:35
+msgid "URL"
+msgstr "آدرس"
+
+#: inc/vars.php:38 inc/vars.php:62 inc/vars.php:72 inc/vars.php:84
+#: templates/admin/ticket/list/page.php:55 templates/admin/ticket/list/table.php:40
+#: templates/admin/ticket/list/table.php:123 templates/shortcodes/list/table.php:26
+#: templates/shortcodes/list/table.php:70
+msgid "ID"
+msgstr "شناسه"
+
+#: inc/vars.php:39
+msgid "Priority Name"
+msgstr "نام اولویت"
+
+#: inc/vars.php:40
+msgid "Priority ID"
+msgstr "شناسه اولویت"
+
+#: inc/vars.php:41
+msgid "Priority Level"
+msgstr "سطح اولویت"
+
+#: inc/vars.php:42
+msgid "Priority Color"
+msgstr "رنگ اولویت"
+
+#: inc/vars.php:43
+msgid "Department Name"
+msgstr "نام بخش"
+
+#: inc/vars.php:44
+msgid "Department ID"
+msgstr "شناسه بخش"
+
+#: inc/vars.php:45
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:22
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:22
+#: templates/admin/preferences/email-templates/customer-closure.php:25
+#: templates/admin/preferences/email-templates/customer-creation.php:25
+#: templates/admin/preferences/email-templates/customer-reopen.php:25
+#: templates/admin/preferences/email-templates/customer-reply.php:25
+#: templates/admin/preferences/email-templates/staff-closure.php:25
+#: templates/admin/preferences/email-templates/staff-creation.php:25
+#: templates/admin/preferences/email-templates/staff-reopen.php:26
+#: templates/admin/preferences/email-templates/staff-reply.php:25
+#: templates/admin/ticket/form.php:19 templates/admin/ticket/list/table.php:47
+#: templates/admin/ticket/list/table.php:130 templates/admin/ticket/single/page. php:29
+#: templates/shortcodes/list/table.php:32 templates/shortcodes/list/table.php:76
+#: templates/shortcodes/new-form/form.php:17
+msgid "Subject"
+msgstr "موضوع"
+
+#: inc/vars.php:46 inc/vars.php:63
+#: templates/admin/my-account/premade-responses-new.php:34
+msgid "Content"
+msgstr "محتوی"
+
+#: inc/vars.php:47 templates/admin/ticket/list/page.php:58
+#: templates/admin/ticket/list/table.php:54 templates/admin/ticket/list/table.php:137
+#: templates/shortcodes/list/table.php:38 templates/shortcodes/list/table.php:82
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/vars.php:60
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/vars.php:96
+msgid "Site Name"
+msgstr "نام سایت"
+
+#: inc/vars.php:97
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: inc/vars.php:98
+msgid "Login URL"
+msgstr "آدرس ورود"
+
+#: inc/vars.php:99
+msgid "My Tickets URL"
+msgstr "آدرس تیمکت‌های من"
+
+#: inc/vars.php:100
+msgid "New Ticket URL"
+msgstr "آدرس تیک جدید"
+
+#: templates/admin/my-account/general.php:34
+#: templates/admin/preferences/cron/auto-close.php:156
+#: templates/admin/preferences/cron/general.php:37
+#: templates/admin/preferences/cron/reminder-queue.php:74
+#: templates/admin/preferences/email-piping.php:99
+#: templates/admin/preferences/email.php:98 templates/admin/preferences/general. php:133
+#: templates/admin/preferences/pages/general.php:75
+#: templates/admin/preferences/tickets.php:77 templates/admin/ticket/form.php:129
+#: templates/admin/ticket/single/popup/close-ticket.php:21
+#: templates/admin/tools/general.php:38 templates/shortcodes/new-form/form.php:108
+#: templates/shortcodes/single/popup/close-ticket.php:21
+msgid "Submit"
+msgstr "ارسال"
+
+#: templates/admin/my-account.php:24 templates/admin/preferences/cron/auto-close. php:10
+#: templates/admin/preferences/cron/general.php:7
+#: templates/admin/preferences/cron/reminder-queue.php:10
+#: templates/admin/preferences.php:23
+msgid "General"
+msgstr "عمومی"
+
+#: templates/admin/my-account.php:35 templates/admin/preferences.php:41
+#: templates/admin/ticket/list/page.php:191 templates/admin/tools.php:18
+#: templates/shortcodes/list/page.php:105
+msgid "Loading Screen..."
+msgstr "بارگزاری صفحه..."
+
+#: templates/admin/preferences/addons/list.php:21
+#, php-format
+msgid "Version %s"
+msgstr "نسخه %s"
+
+#: templates/admin/preferences/addons/list.php:30
+msgid "More Info"
+msgstr "اطلاعات بیشتر"
+
+#: templates/admin/preferences/departments-confirm.php:62
+#: templates/admin/preferences/priorities-confirm.php:62
+#, php-format
+msgid "Tickets: %d"
+msgstr "درخواست‌ها: %d"
+
+#: templates/admin/preferences/departments-confirm.php:89
+#: templates/admin/preferences/priorities-confirm.php:88
+msgid "- Delete all tickets -"
+msgstr "- حذف تمام درخواست ها -"
+
+#: templates/admin/preferences/departments-confirm.php:103
+#: templates/admin/preferences/priorities-confirm.php:102
+#: templates/admin/ticket/list/table-confirm.php:154
+msgid "Confirm Deletion"
+msgstr "تایید حذف"
+
+#: templates/admin/preferences/departments-new.php:34
+#: templates/admin/preferences/priorities-new.php:34 templates/admin/ticket/form. php:23
+#: templates/shortcodes/new-form/form.php:23
+msgid "Description"
+msgstr "توضیحات"
+
+#: templates/admin/preferences/departments.php:16
+#: templates/admin/preferences/priorities.php:16
+msgid "Activate"
+msgstr "فعال‌سازی"
+
+#: templates/admin/preferences/departments.php:17
+#: templates/admin/preferences/priorities.php:17
+msgid "Deactivate"
+msgstr "غیر‌فعال‌سازی"
+
+#: templates/admin/preferences/departments.php:30
+#: templates/admin/preferences/departments.php:42 templates/admin/preferences.php:25
+msgid "Departments"
+msgstr "بخش‌ها"
+
+#: templates/admin/preferences/departments.php:31
+#: templates/admin/preferences/departments.php:43
+msgid "Operators"
+msgstr "مسئول‌ها"
+
+#: templates/admin/preferences/departments.php:69
+msgid "Edit this department"
+msgstr "ویرایش این بخش"
+
+#: templates/admin/preferences/email-templates/cron-reminder-inactivity.php:7
+#: templates/admin/preferences/email-templates/cron-reminder-queue.php:7
+#: templates/admin/preferences/email-templates/customer-closure.php:7
+#: templates/admin/preferences/email-templates/customer-creation.php:7
+#: templates/admin/preferences/email-templates/customer-reopen.php:7
+#: templates/admin/preferences/email-templates/customer-reply.php:7
+#: templates/admin/preferences/email-templates/staff-closure.php:7
+#: templates/admin/preferences/email-templates/staff-creation.php:7
+#: templates/admin/preferences/email-templates/staff-reopen.php:7
+#: templates/admin/preferences/email-templates/staff-reply.php:7
+#: templates/admin/preferences/email.php:13
+msgid "Customers"
+msgstr "مشتریان"
+
+#: templates/admin/preferences/tickets.php:5
+msgid "Top - Left"
+msgstr "بالا - چپ"
+
+#: templates/admin/preferences/tickets.php:6
+msgid "Top - Right"
+msgstr "بالا - راست"
+
+#: templates/admin/preferences/tickets.php:7
+msgid "Bottom - Left"
+msgstr "پایین - چپ"
+
+#: templates/admin/preferences/tickets.php:8
+msgid "Bottom - Right"
+msgstr "پایین - راست"
+
+#: templates/admin/preferences/tickets.php:17
+msgid "Min. Subject Length"
+msgstr "حداقل طول موضوع"
+
+#: templates/admin/preferences/tickets.php:22 templates/admin/preferences/tickets. php:31
+#: templates/admin/preferences/tickets.php:61
+msgid "characters"
+msgstr "کاراکتر"
+
+#: templates/admin/preferences/tickets.php:26
+msgid "Min. Content Length"
+msgstr "حداقل طوب محتوی"
+
+#: templates/admin/preferences/tickets.php:40 templates/admin/preferences/tickets. php:70
+msgid "seconds"
+msgstr "ثانیه"
+
+#: templates/admin/preferences/tickets.php:54 templates/admin/ticket/list/page. php:61
+#: templates/admin/ticket/list/table.php:61 templates/admin/ticket/list/table.php:144
+#: templates/admin/ticket/single/reply/list.php:17 templates/shortcodes/list/table.php:43
+#: templates/shortcodes/list/table.php:87 templates/shortcodes/single/reply/list. php:14
+msgid "Replies"
+msgstr "پاسخ‌ها"
+
+#: templates/admin/preferences.php:29
+msgid "Pages"
+msgstr "برگه‌ها"
+
+#: templates/admin/preferences.php:30
+msgid "Cron"
+msgstr "کرون"
+
+#: templates/admin/ticket/form.php:9
+msgid "Create New Ticket"
+msgstr "ایجاد درخواست جدید"
+
+#: templates/admin/ticket/form.php:10
+msgid "Submit a new ticket to queue."
+msgstr "ارسال درخواست جدید به صف."
+
+#: templates/admin/ticket/form.php:38 templates/admin/ticket/list/page.php:67
+#: templates/admin/ticket/list/table.php:75 templates/admin/ticket/list/table.php:158
+#: templates/admin/ticket/single/page.php:130 templates/shortcodes/list/table.php:54
+#: templates/shortcodes/list/table.php:98 templates/shortcodes/new-form/form.php:37
+#: templates/shortcodes/single/sidebar.php:33
+msgid "Department"
+msgstr "بخش"
+
+#: templates/admin/ticket/form.php:57 templates/admin/ticket/list/page.php:64
+#: templates/admin/ticket/list/table.php:67 templates/admin/ticket/list/table.php:150
+#: templates/admin/ticket/single/page.php:120 templates/shortcodes/list/table.php:48
+#: templates/shortcodes/list/table.php:92 templates/shortcodes/new-form/form.php:57
+#: templates/shortcodes/single/sidebar.php:25
+msgid "Priority"
+msgstr "اولویت"
+
+#: templates/admin/ticket/form.php:78
+msgid "Set Author"
+msgstr "تنظیم نویسنده"
+
+#: templates/admin/ticket/form.php:81
+msgid "- Choose Author -"
+msgstr "- انتخاب نویسنده -"
+
+#: templates/admin/ticket/form.php:103 templates/shortcodes/new-form/form.php:86
+msgid "Attach files"
+msgstr "فایل‌های ضمیمه"
+
+#: templates/admin/ticket/list/page.php:40
+msgid "Show tags"
+msgstr "نمایش تگ‌ها"
+
+#: templates/admin/ticket/list/page.php:71 templates/admin/ticket/list/table.php:83
+#: templates/admin/ticket/list/table.php:166 templates/admin/ticket/single/page. php:138
+#: templates/shortcodes/single/sidebar.php:37
+msgid "Author"
+msgstr "نویسنده"
+
+#: templates/admin/ticket/list/page.php:77 templates/admin/ticket/list/table.php:99
+#: templates/admin/ticket/list/table.php:182 templates/admin/ticket/single/page. php:189
+#: templates/shortcodes/single/sidebar.php:80
+msgid "Last Update"
+msgstr "آخرین به‌روزرسانی"
+
+#: templates/admin/ticket/list/page.php:85
+msgid "Items per page"
+msgstr "موارد در صفحه"
+
+#: templates/admin/ticket/list/page.php:112 templates/shortcodes/list/page.php:26
+msgid "All"
+msgstr "همه"
+
+#: templates/admin/ticket/list/page.php:128 templates/shortcodes/list/page.php:42
+msgid "- Priority -"
+msgstr "- اولویت - "
+
+#: templates/admin/ticket/list/page.php:136 templates/shortcodes/list/page.php:50
+msgid "- Department -"
+msgstr "- بخش -"
+
+#: templates/admin/ticket/list/page.php:144 templates/shortcodes/list/page.php:58
+msgid "- Visibility -"
+msgstr "- قابلیت دید - "
+
+#: templates/admin/ticket/list/page.php:150 templates/shortcodes/list/page.php:64
+msgid "- Author -"
+msgstr "- نویسنده -"
+
+#: templates/admin/ticket/list/page.php:162 templates/shortcodes/list/page.php:76
+msgid "- Operator -"
+msgstr "- اپراتور -"
+
+#: templates/admin/ticket/list/page.php:198
+msgid "Quick Edit"
+msgstr "ویرایش سریع"
+
+#: templates/admin/ticket/list/table-confirm.php:24
+msgid "Quick edit"
+msgstr "ویرایش سریع"
+
+#: templates/admin/ticket/list/table-confirm.php:54
+#, php-format
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: templates/admin/ticket/list/table-confirm.php:77
+msgid "Department:"
+msgstr "بخش:"
+
+#: templates/admin/ticket/list/table-confirm.php:95
+msgid "Priority:"
+msgstr "اولویت:"
+
+#: templates/admin/ticket/list/table.php:222 templates/shortcodes/list/table.php:126
+msgid "View"
+msgstr "مشاهده"
+
+#: templates/admin/ticket/single/page.php:214 templates/shortcodes/single/sidebar.
+#: php:107
+msgid "Download"
+msgstr "دریافت"
+
+#: templates/admin/ticket/single/page.php:251 templates/shortcodes/single/sidebar.
+#: php:145
+msgid "Actions"
+msgstr "عملیات"
+
+#: templates/admin/ticket/single/page.php:265 templates/shortcodes/single/sidebar.
+#: php:159
+msgid "Close"
+msgstr "بستن"
+
+#: templates/admin/ticket/single/page.php:269
+msgid "Exit"
+msgstr "خروج"
+
+#: templates/admin/ticket/single/popup/close-ticket.php:4
+#: templates/shortcodes/single/popup/close-ticket.php:4
+msgid "Close ticket"
+msgstr "بستن درخواست"
+
+#: templates/admin/ticket/single/popup/reopen-ticket.php:21
+#: templates/admin/ticket/single/popup/reply-remove.php:16
+#: templates/admin/ticket/single/popup/request-closure.php:16
+#: templates/shortcodes/single/popup/reopen-ticket.php:21
+#: templates/shortcodes/single/popup/request-closure.php:16
+msgid "Confirm"
+msgstr "تایید"
+
+#: templates/admin/ticket/single/popup/reopen-ticket.php:22
+#: templates/admin/ticket/single/popup/reply-remove.php:17
+#: templates/admin/ticket/single/popup/request-closure.php:17
+#: templates/shortcodes/single/popup/reopen-ticket.php:22
+#: templates/shortcodes/single/popup/request-closure.php:17
+msgid "Cancel"
+msgstr "لغو"
+
+#: templates/admin/ticket/single/popup/reply-edit.php:4
+msgid "Edit reply"
+msgstr "ویرایش پاسخ"
