@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: AIO Support Center v2.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-11-01 12:49+0330\n"
+"PO-Revision-Date: 2015-11-08 15:54+0330\n"
 "Last-Translator: Milad Nekofar <milad@nekofar.com>\n"
 "Language-Team: Milad Nekofar <milad@nekofar.com>\n"
 "Language: fa\n"
@@ -2042,7 +2042,7 @@ msgstr ""
 #: templates/shortcodes/single/error.php:49
 #, php-format
 msgid "Don't have an account yet? <a href='%s'>Register Now!</a>"
-msgstr ""
+msgstr "هنوز حساب کاربری ندارید؟ <a href='%s'>ثبت‌نام کنید!</a>"
 
 #: templates/shortcodes/list/error.php:43 templates/shortcodes/new-form/error.php:39
 #: templates/shortcodes/single/error.php:53
@@ -2055,7 +2055,7 @@ msgstr ""
 
 #: templates/shortcodes/new-form/error.php:29
 msgid "In order to create new ticket, you must login with your account first."
-msgstr ""
+msgstr "برای ایچاد درخواست چدید، باید ابتدا به حساب خود وارد شوید."
 
 #: templates/shortcodes/single/error.php:25
 msgid "<strong>Error:</strong> You do not have permission to view this ticket."
